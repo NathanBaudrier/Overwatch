@@ -1,0 +1,9 @@
+- Personages -
+
+-> Sombra (DPS)
+- Peut se mettre invisible autant de temps qu'elle veut jusqu'à refaire clique droit sur son item, léger temps d'activation de l'invisibilité
+- Peut place un pot où elle veut dans la map où elle peut s'y téléporter quand elle veut
+- Ulti : Peut pirater tout les joueurs autour d'elle (ils ne peuvent plus utiliser leur capacité)
+
+-> Baptiste (Support)
+-
