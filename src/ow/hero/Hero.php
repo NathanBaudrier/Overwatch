@@ -28,4 +28,6 @@ abstract class Hero {
 
     abstract public function getCriticalDamage() : float;
 
+    abstract public function useUltimate() : void;
+
 }
